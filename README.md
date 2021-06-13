@@ -18,7 +18,7 @@ conn.set_tunnel(
     port=443,
     headers={
         "JA3": ja3_string,
-        #"Proxy": "127.0.0.1:8888"
+        #"Proxy": "1.3.3.7:3128"
     }
 )
 
