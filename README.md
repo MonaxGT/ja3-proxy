@@ -2,7 +2,7 @@
  
 Golang HTTP proxy for spoofing JA3 fingerprints. Chrome and firefox fingerprints are not functional so far.
 
-\* Most of the code is copied from https://github.com/CUCyber/ja3transport
+\* most of the code is copied from https://github.com/CUCyber/ja3transport
 
 \* written by a Go noob.
 
